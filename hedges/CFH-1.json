@@ -9,7 +9,7 @@
   "functional_ccy": "INR",
   "contract_rate": "93.30",
   "inception_spot": "93.00",
-  "maturity_date": "2026-07-30",
+  "maturity_date": "2026-05-30",
   "hedged_item_desc": "Petroleum Purchase $10,000",
   "hedged_item_nature": "forecast_purchase",
   "expected_transaction_date": "2026-07-30",
